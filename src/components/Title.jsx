@@ -11,7 +11,5 @@ export default function Title(props) {
         </div>
       </div>
     </div>
-
-    
   )
 }
